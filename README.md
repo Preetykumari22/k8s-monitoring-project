@@ -31,7 +31,7 @@ This project sets up a complete Kubernetes monitoring stack using **Amazon EKS**
 ## 📂 Folder Structure
 
 
-
+```
 .
 ├── mywebd-deployment.yaml         # Web app Deployment
 ├── mywebd-service.yaml            # Web app Service (LoadBalancer)
@@ -40,7 +40,7 @@ This project sets up a complete Kubernetes monitoring stack using **Amazon EKS**
 │   ├── grafana-dashboards/        # (optional) Grafana dashboard configs
 └── README.md
 
-
+```
 
 ---
 
